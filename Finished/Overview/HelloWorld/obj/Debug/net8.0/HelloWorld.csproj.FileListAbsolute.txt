@@ -1,0 +1,15 @@
+/Users/nezihetekin/Documents/C#_2024/LearningCSharp/DotNet8/Finished/Overview/HelloWorld/bin/Debug/net8.0/HelloWorld
+/Users/nezihetekin/Documents/C#_2024/LearningCSharp/DotNet8/Finished/Overview/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/Users/nezihetekin/Documents/C#_2024/LearningCSharp/DotNet8/Finished/Overview/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/Users/nezihetekin/Documents/C#_2024/LearningCSharp/DotNet8/Finished/Overview/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/Users/nezihetekin/Documents/C#_2024/LearningCSharp/DotNet8/Finished/Overview/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/Users/nezihetekin/Documents/C#_2024/LearningCSharp/DotNet8/Finished/Overview/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nezihetekin/Documents/C#_2024/LearningCSharp/DotNet8/Finished/Overview/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/nezihetekin/Documents/C#_2024/LearningCSharp/DotNet8/Finished/Overview/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/Users/nezihetekin/Documents/C#_2024/LearningCSharp/DotNet8/Finished/Overview/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/nezihetekin/Documents/C#_2024/LearningCSharp/DotNet8/Finished/Overview/HelloWorld/obj/Debug/net8.0/HelloWorld.sourcelink.json
+/Users/nezihetekin/Documents/C#_2024/LearningCSharp/DotNet8/Finished/Overview/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/Users/nezihetekin/Documents/C#_2024/LearningCSharp/DotNet8/Finished/Overview/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/Users/nezihetekin/Documents/C#_2024/LearningCSharp/DotNet8/Finished/Overview/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/Users/nezihetekin/Documents/C#_2024/LearningCSharp/DotNet8/Finished/Overview/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/Users/nezihetekin/Documents/C#_2024/LearningCSharp/DotNet8/Finished/Overview/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
